@@ -15,7 +15,7 @@ const scene = new THREE.Scene();
 let bee, mixer;
 
 const loader = new GLTFLoader();
-loader.load('/animated_butterfly.glb',
+loader.load('./animated_butterfly.glb',
     function (gltf) {
         bee = gltf.scene;
         scene.add(bee);
