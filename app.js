@@ -41,7 +41,7 @@ const ambientLight = new THREE.AmbientLight(0xffffff, 3.3);
 scene.add(ambientLight);
 
 const topLight = new THREE.DirectionalLight(0xffffff, 1)
-topLight.position.add(500, 500, 500);
+topLight.position.set(500, 500, 500);
 scene.add(topLight);
 
 
