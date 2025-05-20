@@ -8,6 +8,8 @@ Check it out here 👉 [3D Butterfly Animation](https://mashakrot.github.io/3d_b
 ## Feautures 
 👉 Real-time rendering of a 3D butterfly model.​
 
+👉 Used GSAP and Three.js for smooth transitions.
+
 👉 Smooth animations and responsive design.​
 
 👉 Interactive elements with hover and click effects.​
